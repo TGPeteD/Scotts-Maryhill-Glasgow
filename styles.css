@@ -1,0 +1,30 @@
+::-webkit-scrollbar {
+  display: none;
+}
+  .top-image {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -3.1%;
+  }
+  header {
+    text-align: center;
+  }
+  main {
+    text-align: center;
+  }
+
+#flx {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  width: 60%;
+  margin: 0 auto;
+ }
+ #left-man {
+ width: 20%;
+ position: relative;
+ left: 20%;
+ padding-bottom: 60%;
+ 
