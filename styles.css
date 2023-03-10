@@ -82,10 +82,7 @@
   margin-left: -1%
 }
 
-
-
-
-  .flex {
+.flex {
     display: flex;
     flex-direction: row;
    
